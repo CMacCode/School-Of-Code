@@ -1,0 +1,29 @@
+<div id="main">
+     <h1 id="title">Conor McGregor</h1>
+       <p>The Man Who Changed UFC FOREVER</p>
+  
+  <div id="img-div">
+    <img id="image" alt="Conor McGregor image" src="https://www.sportbible.com/cdn-cgi/image/width=648,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.sportbible.com%2Fs3%2Fcontent%2Feb786bf760b96f2c02ce7018774e9691.jpg" />
+    <figcaprion>The "Notorious" Conor McGregor.</figcaption>
+  </div>
+  
+  <div id="tribute-info">
+    <h3>The Rise Of Conor McGregor</h3>
+    <ul>
+      <li><strong>2013: Perfect start</strong> - McGregor records a first-round TKO over Marcus Brimage in 67 seconds on April 6, 2013.
+  <li><strong>2014: "WE'RE HERE TO TAKE OVER"</strong> - McGregor tears his ACL in a unanimous decision win over Max Holloway on Aug. 17, 2013.
+       <li><strong>2014: "The Wolrd Title Is Next"</strong> - McGregor scores a first-round TKO of Dustin Poirier on Sept. 27, 2014.
+      <li><strong>2015: "FIRST TASTE OF GOLD"</strong> -  McGregor scores a second-round TKO of Chad Mendes for the interim featherweight belt on July 11, 2015.</li>
+      <li><strong>2015: "Featherweight CHAMP"</strong> - It is McGregor's fifth consecutive win by knockout and is the fastest finish in the history of UFC title fights.
+  <li><strong>2016: "MAKING HISTORY"</strong> - McGregor becomes the first UFC fighter to hold belts in two weight classes simultaneously as he destroys Eddie Alvarez on Nov. 12, 2016. </li> 
+      
+    </ul>
+    
+    <i>"Who the F**K IS THAT GUY."  </i> <br><br>
+    <i>"- Conor McGregor"</i> 
+    </div>
+  
+  <h5>
+    PLEASE READ MORE ON THE NOTORIOUS HERE <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Conor_McGregor">Conor McGregor</>.
+  </h5> 
+</div> 
